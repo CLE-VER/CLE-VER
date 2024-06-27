@@ -1,15 +1,16 @@
-# Sobre Clever
+# Clever - Discente de Geoprocessamento
 
-Olá! Meu nome é **Clever** e sou um entusiasta da tecnologia com um espírito **geek**. Estou embarcando em uma emocionante jornada no mundo da programação e escolhi **Python** como minha primeira linguagem de programação para aprender. Estou ansioso para explorar todas as possibilidades que a programação tem a oferecer.
+Oi gente! 👾 Meu nome é Clever e sou estudante de Geoprocessamento na Universidade Federal do Pará (UFPA). Estou no início da minha jornada de programação e estou animado para aprender mais sobre essa área.
 
-## Minha Jornada de Programação 🚀
+## Sobre Mim
 
-Como iniciante, estou me familiarizando com os conceitos básicos de Python e me divertindo com a simplicidade e a flexibilidade que ela oferece. Cada linha de código que escrevo abre um novo mundo de oportunidades e estou ansioso para desenvolver minhas habilidades e contribuir para projetos interessantes.
+- 🌱 Atualmente, estou cursando Geoprocessamento na UFPA.
+- 📚 Estou aprendendo linguagens de programação como Python e JavaScript.
+- 👾 Estou também estudando linguagens de desenvolvimento web como HTML e CSS.
+- 🗺️ Tenho interesse em mapeamento, análise espacial e tecnologias geoespaciais.
+- 🎯 Meu objetivo é contribuir para projetos relacionados a geotecnologias e desenvolver minhas habilidades de programação.
 
-## Fato Engraçado 😄
+## Contato
 
-Um fato engraçado sobre mim é que eu tenho uma tendência a esquecer das coisas. Mas ei, quem precisa de memória quando você tem um computador poderoso e o Google ao seu alcance, certo? Só espero não esquecer de salvar meu código antes de fechar o editor!
+- 📧 Email: bulhoesclever@gmail.com
 
----
-
-Estou animado para ver onde essa nova habilidade me levará e estou aberto a aprender com a comunidade. Vamos codificar!
