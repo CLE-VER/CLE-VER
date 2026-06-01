@@ -1,14 +1,10 @@
 # Clever - Tecnólogo em Geoprocessamento
 
-Oi gente! 👾 Meu nome é Clever e sou Tecnólogo em Geoprocessamento pela Universidade Federal do Pará (UFPA)
+Tecnólogo em Geoprocessamento (UFPA)
 ## Sobre Mim
-
-- 📚 Estou aprendendo linguagem Python
-- 👾 Estou também estudando linguagens de desenvolvimento web como HTML e CSS.
-- 🗺️ Tenho interesse em mapeamento, análise espacial e tecnologias geoespaciais e desenvolvimento de softwares.
-- 🎯 Meu objetivo é contribuir para projetos relacionados a geotecnologias e desenvolver minhas habilidades de programação.
+Alguém tentando ser alguma coisa
 
 ## Contato
 
-- 📧 Email: bulhoesclever@gmail.com
+- 📧 Email: cleverponto@gmail.com
 
