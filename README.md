@@ -1,4 +1,4 @@
-# Clever - Tecnólogo em Geoprocessamento
+# Clever 
 
 Tecnólogo em Geoprocessamento (UFPA)
 ## Sobre Mim
